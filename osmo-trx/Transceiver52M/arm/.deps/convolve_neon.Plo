@@ -1,0 +1,3 @@
+convolve_neon.lo: convolve_neon.S ../../config.h
+
+../../config.h:
